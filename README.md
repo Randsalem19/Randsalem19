@@ -1,6 +1,6 @@
 # Hi, I'm Rand Majed Salem 👋
 
-🎓 CS Student @ UCAS | AI & NLP Enthusiast  
+🎓 DS&AI Student @ UCAS | AI & NLP Enthusiast  
 📍 Gaza, Palestine  
 🔭 Currently: Fine-tuning AraBERT for Arabic Sentiment Analysis (Graduation Project)
 
