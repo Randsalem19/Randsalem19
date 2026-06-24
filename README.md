@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rand Majed Salem 👋
 
-<!--
-**Randsalem19/Randsalem19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ UCAS | AI & NLP Enthusiast  
+📍 Gaza, Palestine  
+🔭 Currently: Fine-tuning AraBERT for Arabic Sentiment Analysis (Graduation Project)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+`Python` `PyTorch` `HuggingFace` `FastAPI` `NLP` `Arabic NLP` `Machine Learning`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Arabic Sentiment Analysis** — AraBERT + ASTD dataset + Focal Loss
+- **AI Scholarship Chatbot** — FastAPI + RAG + GPT-4o-mini + SSE streaming
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rand-majed-salem)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/randsalem)
